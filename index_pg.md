@@ -11,6 +11,7 @@ navLinks:
 <style type="text/css">
   body{
     /*background-color: rgba(31,31,31,1);*/
+    color:red;
   }
 </style>
 { include ui/modal/ageVerif/edsAgeModal.md %}
