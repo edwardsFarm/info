@@ -22,7 +22,7 @@ about_txt:
     float: left;
     margin: 4px 8px 0px 0px;
     /*margin-bottom: 30px;*/
-    max-width:50%;
+    max-width:60%;
   }
   .aboutWrap p{
     margin: 0px 0px 8px 0px;
