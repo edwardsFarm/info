@@ -87,7 +87,7 @@ certTypes: ['potency', 'pathogens', 'cannabinoids', 'terpenes', 'pesticides']
 
 {%- comment -%}<!-- IMPORTANT: loop reqs path struc as follows: YYYY-MM-DD/My Strain Name/my_cert_filename.ext -->{%- endcomment -%}
 
-{- include fetchers/site.static_files/imgsAndPdfs--dateInPath--newFirst--RTNR.md -%}
+{%- include fetchers/site.static_files/imgsAndPdfs--dateInPath--newFirst--RTNR.md -%}
 
 {%- comment -%}<!-- IMPORT sortedImgAndPdfArr, extList, dateStrArr_SORTED, yrsSortedUniqArr  -->{%- endcomment -%}
 {%-  assign yrHdrChkrArr   = yrHdrChkrArr   | split:"" -%}
