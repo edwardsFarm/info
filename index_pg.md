@@ -14,4 +14,4 @@ navLinks:
     color:red;
   }
 </style>
-{ include ui/modal/ageVerif/edsAgeModal.md %}
+{% include ui/modal/ageVerif/edsAgeModal.md %}
