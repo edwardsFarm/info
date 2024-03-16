@@ -9,7 +9,7 @@ navLinks:
    - contact: "contact"
 fetch_path: "/KD/about/2022_zebsPics/"
 ###
-about_img: "KD/about/2022_paraPics/fall2022_43_CROPPED.jpg"
+about_img: "KD/about/2022_paraPics/fall2022_09_CROPPED_540.jpg"
 about_hdr: Vermont Sun Grown
 about_sub: No pesticides or inorganic fertilizers, just labor & love.
 about_txt:
