@@ -10,5 +10,3 @@ navLinks:
 ---
 
 {% include ui/modal/ageVerif/edsAgeModal.md %}
-
- * TEST_TEXT
