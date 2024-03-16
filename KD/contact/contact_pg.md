@@ -23,6 +23,10 @@ vendors:
     - name: "DePOT SHOP"
       website: www.depotshopvt.com
       address: "25 Depot Ave. Windsor, Vermont 05089"
+    - name: "SUNDAY DRIVE"
+      website: www.vtsundaydrive.com
+      address: "442 Woodstock Rd. Suite 3A, Woodstock, Vermont 05091"
+
 insta:
   hdr: "Follow us on Instagram"
 #  path: inclu_rel/instaNoCptn.md
