@@ -90,11 +90,11 @@ about_txt:
  {% for IMG in sortedImgAndPdfArr %}
    {% if forloop.index == 1 %}
      <div class="carousel-item active">
-       <img src="{{IMG.path}}" class="d-block w-100" alt="ERROR fecthing img @ {{IMG.path}}">
+       <img src="{{IMG.path | relative_url}}" class="d-block w-100" alt="ERROR fecthing img @ {{IMG.path}}">
      </div>
    {% else %}
      <div class="carousel-item">
-       <img src="{{IMG.path}}" class="d-block w-100" alt="ERROR fecthing img @ {{IMG.path}}">
+       <img src="{{IMG.path | relative_url}}" class="d-block w-100" alt="ERROR fecthing img @ {{IMG.path}}">
      </div>
    {% endif %}
  {% endfor %}
