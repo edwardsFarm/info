@@ -8,10 +8,5 @@ navLinks:
    - "certificates of analysis": "certificates"
    - contact: "contact"
 ---
-<style type="text/css">
-  body#baseBody{
-    /*background-color: rgba(31,31,31,1);*/
-    color:red;
-  }
-</style>
+
 {% include ui/modal/ageVerif/edsAgeModal.md %}
