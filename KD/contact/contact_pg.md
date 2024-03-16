@@ -23,10 +23,6 @@ vendors:
     - name: "DePOT SHOP"
       website: www.depotshopvt.com
       address: "25 Depot Ave. Windsor, Vermont 05089"
-    - name: "THE TEA HOUSE"
-      website: www.teahousevt.com
-      phone: "(802) 332-6043"
-      address: "50 Woodstock Rd. White River Junction, Vermont 05001"
 insta:
   hdr: "Follow us on Instagram"
 #  path: inclu_rel/instaNoCptn.md
