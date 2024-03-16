@@ -55,7 +55,7 @@ about_txt:
   }
 </style>
 
-{ include fetchers/site.static_files/imgsAndPdfs--extFromFileOrDir--RTNR.md %}
+{% include fetchers/site.static_files/imgsAndPdfs--extFromFileOrDir--RTNR.md %}
 
 <div class="topWrap">
   <div class="aboutWrap hdr">
