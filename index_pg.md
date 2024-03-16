@@ -9,7 +9,7 @@ navLinks:
    - contact: "contact"
 ---
 <style type="text/css">
-  body{
+  body#baseBody{
     /*background-color: rgba(31,31,31,1);*/
     color:red;
   }
