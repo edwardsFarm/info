@@ -52,6 +52,7 @@ about_txt:
 
   .carouselWrap{
     height: 100%;
+    margin-top: 50px;
   }
 </style>
 
