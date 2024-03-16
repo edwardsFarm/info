@@ -52,7 +52,7 @@
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header text-center">
-        <h1 class="modal-title fs-5 w-100" id="staticBackdropLabel">Welcome to Edward's Farms</h1>
+        <h1 class="modal-title fs-5 w-100" id="staticBackdropLabel">Welcome to Edward's Farm</h1>
         <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button> -->
       </div>
       <div id="msgInModl" class="modal-body text-center">
