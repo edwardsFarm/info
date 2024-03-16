@@ -5,13 +5,13 @@ github_pages: true
 #sass:
 #  sass_dir: assets/css/_scss
 # bundle exec jekyll serve --livereload
-lsi: false
-safe: true
-source: info
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+#lsi: false
+#safe: true
+#source: info
+#incremental: false
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
