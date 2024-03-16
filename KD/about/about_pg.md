@@ -1,7 +1,7 @@
 ---
 layout:    BASE
 permalink: about
-title:    "About Edwards Farms"
+title:    "About Edward's Farms"
 navLinks:
    #- "age verif": "/"
    - about: "#"
@@ -10,7 +10,7 @@ navLinks:
 fetch_path: "/KD/about/2022_zebsPics/"
 ###
 about_img: "KD/about/2022_paraPics/fall2022_43_CROPPED.jpg"
-about_hdr: Sun grown in Hartland, Vermont.
+about_hdr: Vermont Sun Grown
 about_sub: No pesticides or inorganic fertilizers, just labor & love.
 about_txt:
    - "We do this for the love. We do this for cannabis history and culture. At Edward's our plants are grown from seed under the open sun, the way nature intended. Proudly grown on the same hill in the Green Mountains I was raised on. For this, we give thanks."
