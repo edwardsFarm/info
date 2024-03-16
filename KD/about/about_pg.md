@@ -13,8 +13,7 @@ about_img: "KD/about/2022_paraPics/fall2022_43_CROPPED.jpg"
 about_hdr: Sun grown in Hartland, Vermont.
 about_sub: No pesticides or inorganic fertilizers, just labor & love.
 about_txt:
-   - "All of our plants are started by seed without pesticides, then planted, weeded, harvested, and processed at our small family farm."
-   - "More details about our process & products coming soon. In the meantime, please see <a href='/contact'>CONTACT</a> for locations where you can find our products. For lab results, go to <a href='/contact'>CERTIFICATES</a>."
+   - "We do this for the love. We do this for the cannabis history and culture. At Edward's our plants are grown from seed under the open sun, the way nature intended. Proudly grown on the same hill in the Green Mountains I was raised on. For this, we give thanks."
 ---
 
 <style type="text/css">
