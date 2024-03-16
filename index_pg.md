@@ -1,7 +1,7 @@
 ---
 layout:    BASE
 permalink: index
-title:    "Edward's Farms"
+title:    "Edward's Farm"
 navLinks:
   #- "age verif": "#"
    - about: "about"
