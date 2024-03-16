@@ -12,7 +12,7 @@ fetch_path: "/KD/contact"
 edwards:
   "CONTACT US":
     name: "GENERAL INQUIRIES"
-    email: "Info@EdwardsFarmVT.com"
+    email: "EdwardsFarmVT@gmail.com"
 vendors:
   "WHERE TO FIND US":
     - name: "GASTON WEED COMPANY"
