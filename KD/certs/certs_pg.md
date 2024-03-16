@@ -164,7 +164,7 @@ certTypes: ['potency', 'pathogens', 'cannabinoids', 'terpenes', 'pesticides']
      <h4  class="strnHdr">{{strnStr | upcase }}</h4>
    </div>
    {%- endif -%}
-   <p class="strnTxt"><span class="strnSpan">{{certType | upcase}}</span><a href="{{CERT.path}}" class="pdfLink" target="_blank"><i>(LINK TO PDF)</i></a>
+   <p class="strnTxt"><span class="strnSpan">{{certType | upcase}}</span><a href="{{CERT.path | relative_url}}" class="pdfLink" target="_blank"><i>(LINK TO PDF)</i></a>
    </p>
 {%- endfor -%}
 </div>
