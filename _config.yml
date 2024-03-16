@@ -1,6 +1,6 @@
 url: https://edwardsfarmvt.com
-#baseurl: /info # the subpath of your site, e.g. /blog
-title: "Edward's Farm" # the name of your site, e.g. ACME Corp.
+#baseurl: /info # DONT USE when connecting to custom domain
+title: "Edward's Farm"
 github_pages: true
 #sass:
 #  sass_dir: assets/css/_scss
