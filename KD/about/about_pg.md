@@ -9,7 +9,7 @@ navLinks:
    - contact: "contact"
 fetch_path: "/KD/about/2022_zebsPics/"
 ###
-about_img: "KD/about/2022_paraPics/sunny_spray_SML.jpg"
+about_img: "KD/about/2022_paraPics/sunny_spray_small_cmpr.jpg"
 about_hdr: Vermont Sun Grown
 about_sub: No pesticides or inorganic fertilizers, just labor & love.
 about_txt:
