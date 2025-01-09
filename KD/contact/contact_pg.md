@@ -26,7 +26,10 @@ vendors:
     - name: "SUNDAY DRIVE"
       website: www.vtsundaydrive.com
       address: "442 Woodstock Rd. Suite 3A, Woodstock, Vermont 05091"
-
+    - name: "Five Seasons Cannabis Co."
+      website: www.fiveseasonscannabis.com
+      phone: "(802) 281-6817"
+      address: "52 Bridge Street, White River Junction, VT 05001"
 insta:
   hdr: "Follow us on Instagram"
 #  path: inclu_rel/instaNoCptn.md
