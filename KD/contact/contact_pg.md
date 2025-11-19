@@ -41,7 +41,7 @@ vendors:
       address: "50 Woodstock Rd. White River Junction, Vermont 05001"
 insta:
   hdr: "Follow us on Instagram"
-  path: inclu_rel/instaWithCptn.md
+  path: inclu_rel/instaV2.md
 ---
 
 <!-- page.fetch_path -> { page.fetch_path }} -->
