@@ -20,9 +20,6 @@ vendors:
     # email:
       phone: "(802) 494-4111"
       address: "100 Center Rd. Essex, Vermont 05452"
-    #- name: "DePOT SHOP"
-    #  website: www.depotshopvt.com
-    #  address: "25 Depot Ave. Windsor, Vermont 05089"
     - name: "GARCIA'S CANNABIS COLLECTIVE"
       website: www.garciascannabis.com
       phone: "(802) 658-5737"
@@ -35,10 +32,21 @@ vendors:
       website: www.winterlandhaze.com
       phone: "(802) 613-5031"
       address: "68 Main St, Montpelier, VT 05602"
-    - name: "THE TEA HOUSE"
-      website: www.teahousevt.com
-      phone: "(802) 332-6043"
-      address: "50 Woodstock Rd. White River Junction, Vermont 05001"
+    - name: "FIVE SEASONS CANNABIS COMPANY"
+      website: www.fiveseasonscannabis.com
+      phone: "(802) 281-6817"
+      address: "52 Bridge St, White River Junction, VT 05001"
+    - name: "SUNDAY DRIVE DISPENSARY"
+      website: www.vtsundaydrive.com
+      phone: "(802) 332-0049"
+      address: "442 Woodstock Rd, Woodstock, VT 05091"
+    #- name: "DePOT SHOP"
+    #  website: www.depotshopvt.com
+    #  address: "25 Depot Ave. Windsor, Vermont 05089"
+    #- name: "THE TEA HOUSE"
+    #  website: www.teahousevt.com
+    #  phone: "(802) 332-6043"
+    #  address: "50 Woodstock Rd. White River Junction, Vermont 05001"
 insta:
   hdr: "Follow us on Instagram"
   path: inclu_rel/instaV2.md
