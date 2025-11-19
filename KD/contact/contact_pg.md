@@ -12,7 +12,7 @@ fetch_path: "/KD/contact"
 edwards:
   "CONTACT US":
     name: "GENERAL INQUIRIES"
-    email: "EdwardsFarmVT@gmail.com"
+    email: "Info@EdwardsFarmVT.com"
 vendors:
   "WHERE TO FIND US":
     - name: "GASTON WEED COMPANY"
@@ -20,20 +20,28 @@ vendors:
     # email:
       phone: "(802) 494-4111"
       address: "100 Center Rd. Essex, Vermont 05452"
-    - name: "DePOT SHOP"
-      website: www.depotshopvt.com
-      address: "25 Depot Ave. Windsor, Vermont 05089"
-    - name: "SUNDAY DRIVE"
-      website: www.vtsundaydrive.com
-      address: "442 Woodstock Rd. Suite 3A, Woodstock, Vermont 05091"
-    - name: "FIVE SEASONS CANNABIS CO."
-      website: www.fiveseasonscannabis.com
-      phone: "(802) 281-6817"
-      address: "52 Bridge Street, White River Junction, VT 05001"
+    #- name: "DePOT SHOP"
+    #  website: www.depotshopvt.com
+    #  address: "25 Depot Ave. Windsor, Vermont 05089"
+    - name: "GARCIA'S CANNABIS COLLECTIVE"
+      website: www.garciascannabis.com
+      phone: "(802) 658-5737"
+      address: "97 Church St, Burlington, VT 05401"
+    - name: "NINNY GOAT & CO"
+      website: www.ninnygoat.co
+      phone: "(802) 222-6105"
+      address: "512 US-5, Fairlee, VT 05045"
+    - name: "WINTERLAND HAZE"
+      website: www.winterlandhaze.com
+      phone: "(802) 613-5031"
+      address: "68 Main St, Montpelier, VT 05602"
+    - name: "THE TEA HOUSE"
+      website: www.teahousevt.com
+      phone: "(802) 332-6043"
+      address: "50 Woodstock Rd. White River Junction, Vermont 05001"
 insta:
   hdr: "Follow us on Instagram"
-#  path: inclu_rel/instaNoCptn.md
-  path: inclu_rel/instaWithCptn.md
+  path: inclu_rel/insta_V2.md
 ---
 
 <!-- page.fetch_path -> { page.fetch_path }} -->
